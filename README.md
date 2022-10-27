@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @notsatria
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Python for Machine Learnging
-- 💞️ I’m looking to collaborate on Machine Learning
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning Python for Data Science
+- 💞️ I’m looking to collaborate on Data Science Project
 - 📫 Reach me on instagram @damsatriaa
 
 <!---
