@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @notsatria
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Python for Data Science
-- 💞️ I’m looking to collaborate on Data Science Project
+- 👀 I’m interested in Mobile Programming field as a front-end engineer
+- 🌱 I’m currently learning Computer Science and Engineering 
+- 💞️ I’m looking to collaborate on Mobile Programming projects
 - 📫 Reach me on instagram @damsatriaa
 
 <!---
