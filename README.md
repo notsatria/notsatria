@@ -30,8 +30,8 @@
 
 <p align="left">
 <a href="https://github.com/notsatria">
-  [![Satria's GitHub stats](https://github-readme-stats.vercel.app/api?username=notsatria)](https://github.com/anuraghazra/github-readme-stats)
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=notsatria&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notsatria&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsatria&show_icons=true&theme=radical"/>
 </a>
 </p>
 
