@@ -12,7 +12,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">I Do Programming (almost) Everyday</h2></summary>
+    <summary><h2 style="display: inline-block">Mediocre Programmer</h2></summary>
   </ul>
 </div>
 
