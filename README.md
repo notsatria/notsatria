@@ -1,74 +1,21 @@
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Satria</h1></summary>
-  </ul>
-</div>
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Mediocre Programmer</h2></summary>
-  </ul>
-</div>
+# 💫 About Me:
+🔭 I’m currently working at Nutapos<br>👯 I’m looking to collaborate on Android projects<br>🌱 I’m currently learning Jetpack Compose<br>💬 Ask me about Kotlin, Android, Dart, Flutter
 
 
-<!--Intro start-->
-- 🔭 I’m currently working on **Flutter, Laravel, Python Data Analysis**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/damsatriaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damarsatria) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@buanasatriaa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@notsatriaa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/crustaceaee) 
 
-- 🌱 I’m currently learning **Mobile Apps Development Flutter and Kotlin**
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=notsatria&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=notsatria&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=notsatria&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 💬 Ask me about **Flutter, Laravel, Python**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=notsatria&theme=date_night&no-frame=false&no-bg=false&margin-w=4)
 
-- 📫 Feel free to reach me out **buanastriaa@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=notsatria&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--Intro end-->
-
-<p align="left">
-<a href="https://github.com/notsatria">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notsatria&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsatria&show_icons=true&theme=radical"/>
-</a>
-</p>
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,git,laravel,bootstrap,html,css,figma,firebase,github,js,kotlin,mysql,py,vscode&perline=14" />
-  </a>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/damarsatria/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/crustaceaee" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/damsatriaa/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-  
-</p>
-
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
